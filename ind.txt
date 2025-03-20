@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DJ per Matrimoni in Italia</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; }
+        header { background: url('dj-wedding.jpg') center/cover no-repeat; color: white; padding: 50px 20px; }
+        section { padding: 50px 20px; }
+        .cta { background: #ff5733; color: white; padding: 15px; display: inline-block; text-decoration: none; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Il DJ Perfetto per il tuo Matrimonio in Italia</h1>
+        <p>Musica su misura per rendere il tuo giorno speciale indimenticabile</p>
+        <a href="#contatti" class="cta">Contattami Ora</a>
+    </header>
+    
+    <section id="chi-sono">
+        <h2>Chi Sono</h2>
+        <p>Sono un DJ specializzato in matrimoni internazionali, con anni di esperienza nel creare atmosfere uniche.</p>
+    </section>
+    
+    <section id="servizi">
+        <h2>Servizi Offerti</h2>
+        <ul>
+            <li>DJ Set personalizzato</li>
+            <li>Effetti speciali e luci</li>
+            <li>Musica per ogni cultura e tradizione</li>
+        </ul>
+    </section>
+    
+    <section id="recensioni">
+        <h2>Recensioni</h2>
+        <p>"Un DJ fantastico! Ha reso la nostra festa perfetta." - Anna & John</p>
+    </section>
+    
+    <section id="contatti">
+        <h2>Contattami</h2>
+        <p>Email: <a href="mailto:info@djmatrimonio.it">info@djmatrimonio.it</a></p>
+        <p>WhatsApp: +39 123 456 7890</p>
+    </section>
+</body>
+</html>
